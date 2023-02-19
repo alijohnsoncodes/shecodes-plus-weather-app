@@ -85,3 +85,8 @@ body {
     position: right;
   }
   
+  p {
+    padding: 0 auto;
+    font-size: small;
+    text-align: center;
+  }
